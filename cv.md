@@ -1,6 +1,6 @@
 # Roman Kondratovich
 <br>
-## My contacts:</h2> [TG](https://t.me/Roman_Kondratovich)
+## My contacts: [TG](https://t.me/Roman_Kondratovich)
 <br>
 
 I stady knowledge of JavaScript and it’s last standards.
@@ -11,14 +11,16 @@ I like to create, I am able to quickly master new technologies and put them into
 ## GitHub profile: [Git](https://github.com/Allrin)
 <br>
 
-## Education: Belarusian state pedagogical university named after Maxim Tank
+
+## Education: 
+   * Belarusian State Pedagogical University named after Maxim Tank
 <br>
 
 ## Hard Skills:
-    * HTML
-    * БЭМ
-    * CSS
-    * JavaScript
+   * HTML
+   * БЭМ
+   * CSS
+   * JavaScript
 <br>
 
 <h2>English:</h2> A2
